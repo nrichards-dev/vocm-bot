@@ -3,7 +3,6 @@
 
 Discord bot to stream VOCM Newfoundland's radio station to your server.
 
-Invite the bot with [this link!](https://discord.com/oauth2/authorize?client_id=1343083960623697970&permissions=36711424&integration_type=0&scope=bot)
 
 
 ## Environment Variables
